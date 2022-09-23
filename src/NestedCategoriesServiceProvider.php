@@ -2,9 +2,9 @@
 
 namespace Ce7in\NestedCategories;
 
+use Ce7in\NestedCategories\Commands\NestedCategoriesCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Ce7in\NestedCategories\Commands\NestedCategoriesCommand;
 
 class NestedCategoriesServiceProvider extends PackageServiceProvider
 {

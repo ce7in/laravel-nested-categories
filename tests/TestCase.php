@@ -2,9 +2,9 @@
 
 namespace Ce7in\NestedCategories\Tests;
 
+use Ce7in\NestedCategories\NestedCategoriesServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Ce7in\NestedCategories\NestedCategoriesServiceProvider;
 
 class TestCase extends Orchestra
 {
